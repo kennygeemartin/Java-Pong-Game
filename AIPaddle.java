@@ -3,6 +3,7 @@ package pongGame;
 import java.awt.Color;
 import java.awt.Graphics;
 
+
 public class AIPaddle implements Paddle {
 	
 	    Ball b1;
